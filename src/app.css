@@ -1,0 +1,15 @@
+.bigblue {
+  color: DodgerBlue;
+  padding: 40px;
+  font-family: Arial;
+  text-align: center;
+}
+
+.pstyle {
+  font-family: Arial;
+  text-align: center;
+}
+
+.ul {
+  list-style-type: none;
+}
